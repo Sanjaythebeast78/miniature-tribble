@@ -1,0 +1,21 @@
+.heading{
+   width: 600px;
+   font-size: 30px; 
+}
+
+body{
+    background-image: linear-gradient(rgb(4, 0, 255), rgb(0, 228, 0), rgb(251, 255, 0));
+} 
+
+#webcam{
+    border: 3px black solid;
+    border-radius: 30px;
+    width: 290px;
+    height: 290px;
+}
+#capture{
+    border: 3px black solid;
+    border-radius: 30px;
+    width: 290px;
+    height: 290px;
+}
